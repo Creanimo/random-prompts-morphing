@@ -20,8 +20,9 @@ body {
     font-size: 30px;
     text-align: center;
     background: #fff;
+    border: 1px solid #bbb;
     border-radius: 6px;
-    color: #black;
+    color: black;
     transition: 1s linear;
 }
   
@@ -41,4 +42,9 @@ body {
 
   #button:hover {
     background: #006FAB;
+}
+
+.credit {
+  text-align: center;
+  font-size: small;
 }
